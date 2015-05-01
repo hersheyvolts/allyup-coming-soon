@@ -1,0 +1,39 @@
+body {
+	background-image: url(images/allyup_background.png);
+	background-position: center;
+	background-size: cover;
+
+}
+
+#logo {
+	width: 450px;
+	margin: 50px auto 30px auto;
+	position: relative;
+}
+
+#logo>img {
+	width: 420px;
+}
+
+p {
+	color:white;
+	font-family: roboto, sans-serif;
+	letter-spacing: 0.5px;
+}
+
+a {
+	color: white;
+}
+
+#text {
+	width: 400px;
+	margin: 0px auto 100px auto;
+	text-align: justify;
+    overflow:hidden;
+
+.scaling-image {
+    position: relative;
+    visibility: hidden; 
+    width: 100%;
+    min-width: 100%;
+}
